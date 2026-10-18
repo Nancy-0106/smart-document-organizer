@@ -1,0 +1,11 @@
+﻿streamlit
+python-dotenv
+pytesseract
+Pillow
+pymupdf
+pypdf
+python-docx
+openpyxl
+python-pptx
+pandas
+groq
